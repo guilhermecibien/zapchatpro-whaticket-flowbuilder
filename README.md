@@ -99,6 +99,14 @@ Automatize respostas e otimize o tempo da equipe com inteligência artificial in
 
 ---
 
+## 🌙 Modo Dark Moderno
+
+Interface profissional em modo escuro, ideal para uso prolongado e ambientes corporativos.
+
+![Modo Dark](screenshots/08-darkmode.png)
+
+---
+
 ## 🗂 Organização com Tags
 
 Classifique conversas e clientes para melhor gestão e segmentação.
