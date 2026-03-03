@@ -1,6 +1,6 @@
 # 🚀 ZapChatPro – Sistema WhiteLabel de Atendimento via WhatsApp
 
-O ZapChatPro é um sistema completo de atendimento multiusuário via WhatsApp, desenvolvido para empresas que desejam vender ou utilizar uma solução profissional com sua própria marca.
+O **ZapChatPro** é um sistema completo de atendimento multiusuário via WhatsApp, desenvolvido para empresas que desejam vender ou utilizar uma solução profissional com sua própria marca.
 
 ⚠️ Este repositório é apenas uma vitrine demonstrativa.  
 O código-fonte completo é disponibilizado exclusivamente após a aquisição da licença.
@@ -11,7 +11,8 @@ O código-fonte completo é disponibilizado exclusivamente após a aquisição d
 
 Você pode testar o sistema agora mesmo.
 
-👉 Acesse: https://demo.zapchatpro.com.br/  
+👉 https://demo.zapchatpro.com.br/  
+
 Basta criar sua conta e o acesso de teste é liberado automaticamente.
 
 Sem necessidade de falar com vendedor.  
@@ -53,65 +54,97 @@ Apenas criar e testar.
 
 ## 📊 Dashboard Inteligente
 
-Acompanhe métricas de atendimentos, usuários ativos e produtividade da equipe.
-
-![Dashboard](screenshots/01-dashboard.png)
+<p align="center">
+  <img 
+    src="screenshots/01-dashboard.png" 
+    width="900" 
+    style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+  >
+</p>
 
 ---
 
 ## 💬 Atendimento Organizado
 
-Sistema estruturado em tickets, permitindo que múltiplos atendentes trabalhem simultaneamente.
-
-![Atendimentos](screenshots/02-atendimentos.png)
+<p align="center">
+  <img 
+    src="screenshots/02-atendimentos.png" 
+    width="900" 
+    style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+  >
+</p>
 
 ---
 
 ## 📌 Kanban Visual
 
-Organize conversas por status e tenha controle total da operação.
-
-![Kanban](screenshots/03-kanban.png)
+<p align="center">
+  <img 
+    src="screenshots/03-kanban.png" 
+    width="900" 
+    style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+  >
+</p>
 
 ---
 
 ## ⚡ Respostas Rápidas
 
-Crie atalhos personalizados para acelerar o atendimento e aumentar a eficiência.
-
-![Respostas Rápidas](screenshots/04-respostas.png)
+<p align="center">
+  <img 
+    src="screenshots/04-respostas.png" 
+    width="900" 
+    style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+  >
+</p>
 
 ---
 
 ## 🔄 FlowBuilder – Automação Visual
 
-Crie fluxos automatizados de atendimento com construtor visual intuitivo.
-
-![FlowBuilder](screenshots/06-flowbuilder.png)
+<p align="center">
+  <img 
+    src="screenshots/06-flowbuilder.png" 
+    width="900" 
+    style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+  >
+</p>
 
 ---
 
 ## 🤖 Atendimento com IA
 
-Automatize respostas e otimize o tempo da equipe com inteligência artificial integrada.
-
-![Atendimento com IA](screenshots/07-ia.png)
+<p align="center">
+  <img 
+    src="screenshots/07-ia.png" 
+    width="900" 
+    style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+  >
+</p>
 
 ---
 
 ## 🌙 Modo Dark Moderno
 
-Interface profissional em modo escuro, ideal para uso prolongado e ambientes corporativos.
-
-![Modo Dark](screenshots/08-darkmode.png)
+<p align="center">
+  <img 
+    src="screenshots/08-darkmode.png" 
+    width="900" 
+    style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.25);"
+  >
+</p>
 
 ---
 
 ## 🗂 Organização com Tags
 
-Classifique conversas e clientes para melhor gestão e segmentação.
-
-![Tags](screenshots/05-tags.png)
+<p align="center">
+  <img 
+    src="screenshots/05-tags.png" 
+    width="900" 
+    style="border-radius:16px; box-shadow: 0 10px 30px rgba(0,0,0,0.15);"
+  >
+</p>
 
 ---
 
@@ -147,8 +180,7 @@ Após a aquisição, você recebe:
 - Suporte inicial para implantação
 - Atualizações conforme plano contratado
 
-👉 Adquira em:  
-https://zapchatpro.com.br/codigo-fonte
+👉 https://zapchatpro.com.br/codigo-fonte  
 
 📞 Atendimento direto pelo WhatsApp:  
 (27) 9 9671-6613
