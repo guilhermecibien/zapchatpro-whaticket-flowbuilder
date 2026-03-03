@@ -194,5 +194,14 @@ Ele serve exclusivamente para apresentação das funcionalidades da plataforma.
 
 ---
 
+Whaticket  
+Sistema Whaticket  
+Whaticket WhiteLabel  
+Sistema de atendimento WhatsApp  
+CRM para WhatsApp  
+Automação para WhatsApp  
+FlowBuilder para WhatsApp  
+Atendimento com IA no WhatsApp  
+
 © 2026 ZapChatPro  
 Todos os direitos reservados.
