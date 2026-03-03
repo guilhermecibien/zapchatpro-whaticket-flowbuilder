@@ -18,6 +18,9 @@ Sem necessidade de falar com vendedor.
 Sem burocracia.  
 Apenas criar e testar.
 
+📞 Dúvidas? Fale direto pelo WhatsApp:  
+(27) 9 9671-6613
+
 ---
 
 ## 🎯 Indicado para
@@ -120,6 +123,9 @@ Após a aquisição, você recebe:
 
 👉 Adquira em:  
 https://zapchatpro.com.br/codigo-fonte
+
+📞 Atendimento direto pelo WhatsApp:  
+(27) 9 9671-6613
 
 ---
 
