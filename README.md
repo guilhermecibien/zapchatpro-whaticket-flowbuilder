@@ -7,6 +7,19 @@ O código-fonte completo é disponibilizado exclusivamente após a aquisição d
 
 ---
 
+# 🎁 TESTE GRÁTIS DISPONÍVEL
+
+Você pode testar o sistema agora mesmo.
+
+👉 Acesse: https://demo.zapchatpro.com.br/  
+Basta criar sua conta e o acesso de teste é liberado automaticamente.
+
+Sem necessidade de falar com vendedor.  
+Sem burocracia.  
+Apenas criar e testar.
+
+---
+
 ## 🎯 Indicado para
 
 - Empresas que desejam oferecer solução WhiteLabel
@@ -79,27 +92,7 @@ Classifique conversas e clientes para melhor gestão e segmentação.
 - React  
 - Banco de dados SQL  
 - Docker  
-- Arquitetura SPA moderna  
-
----
-
-## 📦 Modelo de Licenciamento
-
-O ZapChatPro é comercializado no modelo de **licença de uso do código-fonte**.
-
-Após a aquisição, você recebe:
-
-- Código-fonte completo
-- Guia de instalação
-- Suporte inicial para implantação
-- Atualizações conforme plano contratado
-
----
-
-## 🔐 Aviso Importante
-
-Este repositório **não contém o código-fonte do sistema**.  
-Ele serve exclusivamente para apresentação das funcionalidades da plataforma.
+- Arquitetura moderna SPA  
 
 ---
 
@@ -114,12 +107,26 @@ Ideal para quem deseja:
 
 ---
 
-## 📞 Como Adquirir
+# 📦 ADQUIRA O CÓDIGO-FONTE
 
-Para adquirir a licença do ZapChatPro:
+O ZapChatPro é comercializado no modelo de **licença de uso do código-fonte**.
 
-👉 Acesse: https://zapchatpro.com.br  
-👉 Ou entre em contato via WhatsApp  
+Após a aquisição, você recebe:
+
+- Código-fonte completo
+- Guia de instalação
+- Suporte inicial para implantação
+- Atualizações conforme plano contratado
+
+👉 Adquira em:  
+https://zapchatpro.com.br/codigo-fonte
+
+---
+
+## 🔐 Aviso Importante
+
+Este repositório **não contém o código-fonte do sistema**.  
+Ele serve exclusivamente para apresentação das funcionalidades da plataforma.
 
 ---
 
